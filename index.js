@@ -7,4 +7,4 @@ function takeANumber(curLine, name) {
   return newArray
 }
 
-console.log(takeANumber([],[`Matthew`]))
+console.log(takeANumber([],'Matthew'))
